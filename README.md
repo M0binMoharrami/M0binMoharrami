@@ -6,10 +6,6 @@
 <h3 align="center">💻 Game Mod Developer & Automation Enthusiast 💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M0binMoharrami&label=Profile%20Views&color=blueviolet&style=flat" alt="Mobin" />
-</p>
-
-<p align="center">
   <a href="https://t.me/MobinMoharrami" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@MobinMoharrami-blue?style=for-the-badge&logo=telegram" />
   </a>
