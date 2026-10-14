@@ -112,13 +112,13 @@
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VSCode-90%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-100%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-70%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-95%25-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Linux-90%25-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 </p>
 
